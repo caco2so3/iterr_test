@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "0u+4JSGqFEt4n19PB3k4dseVaPi18O7d/GMjBYWb3Eo=",
+  "Source": "testing_1",
+  "BasePath": "_content/testing_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "testing_1\\wwwroot",
+      "Source": "testing_1",
+      "ContentRoot": "C:\\Users\\caco2\\OneDrive\\Рабочий стол\\test_1\\testing_1\\testing_1\\wwwroot\\",
+      "BasePath": "_content/testing_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,7 @@
+C:\Users\caco2\OneDrive\Рабочий стол\test_1\testing_1\testing_1\obj\Debug\net9.0\testing_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caco2\OneDrive\Рабочий стол\test_1\testing_1\testing_1\obj\Debug\net9.0\testing_1.AssemblyInfoInputs.cache
+C:\Users\caco2\OneDrive\Рабочий стол\test_1\testing_1\testing_1\obj\Debug\net9.0\testing_1.AssemblyInfo.cs
+C:\Users\caco2\OneDrive\Рабочий стол\test_1\testing_1\testing_1\obj\Debug\net9.0\testing_1.csproj.CoreCompileInputs.cache
+C:\Users\caco2\OneDrive\Рабочий стол\test_1\testing_1\testing_1\obj\Debug\net9.0\testing_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\caco2\OneDrive\Рабочий стол\test_1\testing_1\testing_1\obj\Debug\net9.0\testing_1.RazorAssemblyInfo.cache
+C:\Users\caco2\OneDrive\Рабочий стол\test_1\testing_1\testing_1\obj\Debug\net9.0\testing_1.RazorAssemblyInfo.cs
